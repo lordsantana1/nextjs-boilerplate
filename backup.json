@@ -1,0 +1,470 @@
+{
+  "estoque": {
+    "Painel led de sobrepor - 32w - 40x40": {
+      "inicial": 7,
+      "entradas": 0,
+      "saidas": 0,
+      "ultimaModificacao": null
+    },
+    "Painel led sobrepor 30w 40x40": {
+      "inicial": 1,
+      "entradas": 0,
+      "saidas": 0,
+      "ultimaModificacao": null
+    },
+    "Refletor - 100w": {
+      "inicial": 1,
+      "entradas": 0,
+      "saidas": 0,
+      "ultimaModificacao": null
+    },
+    "Luminaria led de uso interior p/ sobrepor - 12w": {
+      "inicial": 7,
+      "entradas": 0,
+      "saidas": 0,
+      "ultimaModificacao": null
+    },
+    "Painel led de embutir - 18w": {
+      "inicial": 10,
+      "entradas": 0,
+      "saidas": 0,
+      "ultimaModificacao": null
+    },
+    "Painel led de embutir - 24w": {
+      "inicial": 24,
+      "entradas": 0,
+      "saidas": 0,
+      "ultimaModificacao": null
+    },
+    "Painel led de embutir -25w": {
+      "inicial": 3,
+      "entradas": 0,
+      "saidas": 0,
+      "ultimaModificacao": null
+    },
+    "Luminária linear - 20w": {
+      "inicial": 9,
+      "entradas": 0,
+      "saidas": 0,
+      "ultimaModificacao": null
+    },
+    "Lâmpada led tubo - 9w": {
+      "inicial": 101,
+      "entradas": 0,
+      "saidas": 0,
+      "ultimaModificacao": null
+    },
+    "Lâmpada de bulbo - 15w": {
+      "inicial": 133,
+      "entradas": 0,
+      "saidas": 0,
+      "ultimaModificacao": null
+    },
+    "Lâmpada led tubo -18w": {
+      "inicial": 125,
+      "entradas": 0,
+      "saidas": 0,
+      "ultimaModificacao": null
+    },
+    "Plafon led de embutir quadrado -40w 66x21x66cm": {
+      "inicial": 3,
+      "entradas": 0,
+      "saidas": 0,
+      "ultimaModificacao": null
+    },
+    "Ducha higiênica": {
+      "inicial": 45,
+      "entradas": 0,
+      "saidas": 0,
+      "ultimaModificacao": null
+    },
+    "Tampa de vaso": {
+      "inicial": 36,
+      "entradas": 0,
+      "saidas": 0,
+      "ultimaModificacao": null
+    },
+    "Torneira com sensor de parede bica - modelo 51.190": {
+      "inicial": 4,
+      "entradas": 0,
+      "saidas": 0,
+      "ultimaModificacao": null
+    },
+    "Abraçadeira copo 3/4 - alumínio": {
+      "inicial": 47,
+      "entradas": 0,
+      "saidas": 0,
+      "ultimaModificacao": null
+    },
+    "Campainha sem fio": {
+      "inicial": 1,
+      "entradas": 0,
+      "saidas": 0,
+      "ultimaModificacao": null
+    },
+    "Registro de gaveta 1/2": {
+      "inicial": 2,
+      "entradas": 0,
+      "saidas": 0,
+      "ultimaModificacao": null
+    },
+    "Registro esfera 1/2": {
+      "inicial": 2,
+      "entradas": 0,
+      "saidas": 0,
+      "ultimaModificacao": null
+    },
+    "Registro de pressão 1/2": {
+      "inicial": 1,
+      "entradas": 0,
+      "saidas": 0,
+      "ultimaModificacao": null
+    },
+    "Registro de gveta 3/4": {
+      "inicial": 4,
+      "entradas": 0,
+      "saidas": 0,
+      "ultimaModificacao": null
+    },
+    "Plug tampão rosca - pvc branco": {
+      "inicial": 2,
+      "entradas": 0,
+      "saidas": 0,
+      "ultimaModificacao": null
+    },
+    "Extensão 1/2 curta - 4cm": {
+      "inicial": 3,
+      "entradas": 0,
+      "saidas": 0,
+      "ultimaModificacao": null
+    },
+    "Registro t 3/4": {
+      "inicial": 3,
+      "entradas": 0,
+      "saidas": 0,
+      "ultimaModificacao": null
+    },
+    "Prolomgador p/ torneira 1/2": {
+      "inicial": 3,
+      "entradas": 0,
+      "saidas": 0,
+      "ultimaModificacao": null
+    },
+    "Capa parafuso pvc tampa marrom - 25": {
+      "inicial": 3,
+      "entradas": 0,
+      "saidas": 0,
+      "ultimaModificacao": null
+    },
+    "Capa parafuso pvc tampa marrom - 20": {
+      "inicial": 6,
+      "entradas": 0,
+      "saidas": 0,
+      "ultimaModificacao": null
+    },
+    "Joelho 20 pvc marrom": {
+      "inicial": 23,
+      "entradas": 0,
+      "saidas": 0,
+      "ultimaModificacao": null
+    },
+    "T -25mm pvc marrom": {
+      "inicial": 2,
+      "entradas": 0,
+      "saidas": 0,
+      "ultimaModificacao": null
+    },
+    "Bisnaga cola juntas": {
+      "inicial": 4,
+      "entradas": 0,
+      "saidas": 0,
+      "ultimaModificacao": null
+    },
+    "Válvula ventosa 1/2": {
+      "inicial": 4,
+      "entradas": 0,
+      "saidas": 0,
+      "ultimaModificacao": null
+    },
+    "Anel de vedação p/ vaso sanitário": {
+      "inicial": 19,
+      "entradas": 0,
+      "saidas": 0,
+      "ultimaModificacao": null
+    },
+    "Ralo rotativo grelha quadrado aluminio - 10 x 10": {
+      "inicial": 16,
+      "entradas": 0,
+      "saidas": 0,
+      "ultimaModificacao": null
+    },
+    "Ralo rotativo grelha aluminio - 15 x 15": {
+      "inicial": 2,
+      "entradas": 0,
+      "saidas": 0,
+      "ultimaModificacao": null
+    },
+    "Tampa cega aço inox 15 x 15": {
+      "inicial": 1,
+      "entradas": 0,
+      "saidas": 0,
+      "ultimaModificacao": null
+    },
+    "Ralo protetor 15x15": {
+      "inicial": 1,
+      "entradas": 0,
+      "saidas": 0,
+      "ultimaModificacao": null
+    },
+    "Ralo protetor 10x10": {
+      "inicial": 1,
+      "entradas": 0,
+      "saidas": 0,
+      "ultimaModificacao": null
+    },
+    "Bolsa para caixa acoplada": {
+      "inicial": 30,
+      "entradas": 0,
+      "saidas": 0,
+      "ultimaModificacao": null
+    },
+    "Parafuso para caixa acoplada": {
+      "inicial": 40,
+      "entradas": 0,
+      "saidas": 0,
+      "ultimaModificacao": null
+    },
+    "Chave boia 15a-250v": {
+      "inicial": 1,
+      "entradas": 0,
+      "saidas": 0,
+      "ultimaModificacao": null
+    },
+    "Chave boia - 16a-1,2m": {
+      "inicial": 8,
+      "entradas": 0,
+      "saidas": 0,
+      "ultimaModificacao": null
+    },
+    "Suporte para pratileira - 25 cm": {
+      "inicial": 9,
+      "entradas": 0,
+      "saidas": 0,
+      "ultimaModificacao": null
+    },
+    "Tomada pvc c/ travas - 75mm": {
+      "inicial": 5,
+      "entradas": 0,
+      "saidas": 0,
+      "ultimaModificacao": null
+    },
+    "Torneira p/ jardim - plástico preta": {
+      "inicial": 12,
+      "entradas": 0,
+      "saidas": 0,
+      "ultimaModificacao": null
+    },
+    "Chuveiro articulado cromado 1/2": {
+      "inicial": 9,
+      "entradas": 0,
+      "saidas": 0,
+      "ultimaModificacao": null
+    },
+    "Torneira bancada - gourmett 1172": {
+      "inicial": 2,
+      "entradas": 0,
+      "saidas": 0,
+      "ultimaModificacao": null
+    },
+    "Sifão copo sanfonado - branco": {
+      "inicial": 32,
+      "entradas": 0,
+      "saidas": 0,
+      "ultimaModificacao": null
+    },
+    "Kit completo p/ caixa acoplada": {
+      "inicial": 1,
+      "entradas": 0,
+      "saidas": 0,
+      "ultimaModificacao": null
+    },
+    "Tubo extensivo": {
+      "inicial": 21,
+      "entradas": 0,
+      "saidas": 0,
+      "ultimaModificacao": null
+    },
+    "Engate flexivel": {
+      "inicial": 19,
+      "entradas": 0,
+      "saidas": 0,
+      "ultimaModificacao": null
+    },
+    "Válvula lavatório - metal": {
+      "inicial": 8,
+      "entradas": 0,
+      "saidas": 0,
+      "ultimaModificacao": null
+    },
+    "Válvula p/ lavatório sem ladrão - metal cromado": {
+      "inicial": 1,
+      "entradas": 0,
+      "saidas": 0,
+      "ultimaModificacao": null
+    },
+    "Válvula pia americana -metal cromado 3.1/2": {
+      "inicial": 1,
+      "entradas": 0,
+      "saidas": 0,
+      "ultimaModificacao": null
+    },
+    "Kit reparo p/ válvula de descarga": {
+      "inicial": 1,
+      "entradas": 0,
+      "saidas": 0,
+      "ultimaModificacao": null
+    },
+    "Mecanismo torneira biopress": {
+      "inicial": 1,
+      "entradas": 0,
+      "saidas": 0,
+      "ultimaModificacao": null
+    },
+    "Cilindro torneira biopress": {
+      "inicial": 1,
+      "entradas": 0,
+      "saidas": 0,
+      "ultimaModificacao": null
+    },
+    "Subconjunto reparo p/ valvulas": {
+      "inicial": 6,
+      "entradas": 0,
+      "saidas": 0,
+      "ultimaModificacao": null
+    },
+    "Tubo ajustável ligação bacia sanitária": {
+      "inicial": 1,
+      "entradas": 0,
+      "saidas": 0,
+      "ultimaModificacao": null
+    },
+    "Torneira pia cirurgica  -18cm - 1/4": {
+      "inicial": 8,
+      "entradas": 0,
+      "saidas": 0,
+      "ultimaModificacao": null
+    },
+    "Alavanca pratika cr": {
+      "inicial": 9,
+      "entradas": 0,
+      "saidas": 0,
+      "ultimaModificacao": null
+    },
+    "Solenóides gerador": {
+      "inicial": 5,
+      "entradas": 0,
+      "saidas": 0,
+      "ultimaModificacao": null
+    },
+    "Ultra fita de vedação 45mm": {
+      "inicial": 6,
+      "entradas": 0,
+      "saidas": 0,
+      "ultimaModificacao": null
+    },
+    "Luminária tartaruga": {
+      "inicial": 43,
+      "entradas": 0,
+      "saidas": 0,
+      "ultimaModificacao": null
+    },
+    "Contator 45a": {
+      "inicial": 3,
+      "entradas": 0,
+      "saidas": 0,
+      "ultimaModificacao": null
+    },
+    "Contator 15a": {
+      "inicial": 3,
+      "entradas": 0,
+      "saidas": 0,
+      "ultimaModificacao": null
+    },
+    "Contator 30a": {
+      "inicial": 1,
+      "entradas": 0,
+      "saidas": 0,
+      "ultimaModificacao": null
+    },
+    "Termostato de encosto": {
+      "inicial": 4,
+      "entradas": 0,
+      "saidas": 0,
+      "ultimaModificacao": null
+    },
+    "Termostato de encosto simples 25a": {
+      "inicial": 8,
+      "entradas": 0,
+      "saidas": 0,
+      "ultimaModificacao": null
+    },
+    "Mini contator auxiliar 220v": {
+      "inicial": 5,
+      "entradas": 0,
+      "saidas": 0,
+      "ultimaModificacao": null
+    },
+    "Disjuntor termomagnético bipolar c-50": {
+      "inicial": 4,
+      "entradas": 0,
+      "saidas": 0,
+      "ultimaModificacao": null
+    },
+    "Disjuntor termomafnético bipolar c-40": {
+      "inicial": 1,
+      "entradas": 0,
+      "saidas": 0,
+      "ultimaModificacao": null
+    },
+    "Disjuntor termomagnético c32": {
+      "inicial": 2,
+      "entradas": 0,
+      "saidas": 0,
+      "ultimaModificacao": null
+    },
+    "Disjuntor termomagnético c40": {
+      "inicial": 2,
+      "entradas": 0,
+      "saidas": 0,
+      "ultimaModificacao": null
+    },
+    "Disjuntor termomagnético c63": {
+      "inicial": 1,
+      "entradas": 0,
+      "saidas": 0,
+      "ultimaModificacao": null
+    },
+    "Bombas inova 100cc-220v": {
+      "inicial": 3,
+      "entradas": 0,
+      "saidas": 0,
+      "ultimaModificacao": null
+    },
+    "Programador timer - 40hr-100-240v-16a": {
+      "inicial": 1,
+      "entradas": 0,
+      "saidas": 0,
+      "ultimaModificacao": null
+    },
+    "Relé de proteção ep3": {
+      "inicial": 2,
+      "entradas": 0,
+      "saidas": 0,
+      "ultimaModificacao": null
+    }
+  },
+  "movimentacoes": [],
+  "anoAtual": 2025,
+  "exportado_em": "21/08/2025, 11:50:46",
+  "versao": "1"
+}
